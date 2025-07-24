@@ -1,2 +1,8 @@
 # pre_work
-practica segunda clase
+## Libraries
+- ipykernel
+- ipywidgets
+- nbformat
+- pandas
+- seaborn
+- ipyleaflet
